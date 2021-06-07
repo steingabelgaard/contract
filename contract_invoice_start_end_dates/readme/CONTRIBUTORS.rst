@@ -2,4 +2,3 @@
 
   * Alexis de Lattre <alexis.delattre@akretion.com>
   * Florian da Costa <florian.dacosta@akretion.com>
-  * Hans Henrik Gabelgaard <hhg@gabelgaard.org>
