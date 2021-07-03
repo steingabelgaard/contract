@@ -455,7 +455,7 @@ msgid "Company"
 msgstr ""
 
 #. module: contract
-#: code:addons/contract/models/contract.py:458
+#: code:addons/contract/models/contract.py:459
 #, python-format
 msgid "Compose Email"
 msgstr ""
@@ -700,7 +700,7 @@ msgid "Contract lines"
 msgstr "Sözleşmeler"
 
 #. module: contract
-#: code:addons/contract/models/contract.py:616
+#: code:addons/contract/models/contract.py:617
 #, python-format
 msgid ""
 "Contract manually invoiced: <a href=\"#\" data-oe-model=\"%s\" data-oe-id="
@@ -1448,7 +1448,7 @@ msgid "Planned"
 msgstr ""
 
 #. module: contract
-#: code:addons/contract/models/contract.py:416
+#: code:addons/contract/models/contract.py:417
 #, fuzzy, python-format
 msgid "Please define a %s journal for the company '%s'."
 msgstr "Lütfen '%s' şirketi için bir satış yevmiyesi tanımlayın."
@@ -1805,7 +1805,7 @@ msgid "Technical field for UX purpose."
 msgstr ""
 
 #. module: contract
-#: code:addons/contract/models/contract.py:651
+#: code:addons/contract/models/contract.py:652
 #: model_terms:ir.ui.view,arch_db:contract.contract_contract_form_view
 #: model_terms:ir.ui.view,arch_db:contract.contract_contract_terminate_form_view
 #, fuzzy, python-format
@@ -2012,7 +2012,7 @@ msgid "Year(s)"
 msgstr "Yıl(lar)"
 
 #. module: contract
-#: code:addons/contract/models/contract.py:665
+#: code:addons/contract/models/contract.py:666
 #, python-format
 msgid "You are not allowed to terminate contracts."
 msgstr ""
