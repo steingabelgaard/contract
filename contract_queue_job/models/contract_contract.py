@@ -4,7 +4,7 @@
 from odoo import api, models
 from odoo.addons.queue_job.job import job
 
-QUEUE_CHANNEL = "root.CONTRACT_INVOICE"
+QUEUE_CHANNEL = "root.sub"
 
 
 class ContractContract(models.Model):
