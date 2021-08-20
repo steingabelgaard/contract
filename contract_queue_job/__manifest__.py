@@ -12,5 +12,6 @@
               "Odoo Community Association (OCA)",
     "website": "https://github.com/OCA/contract",
     "depends": ['contract', 'queue_job'],
+    "data": ['data/queue_job_data.xml'],
     "maintainers": ["sbejaoui"],
 }
